@@ -382,4 +382,8 @@ img{
         display: flex;
         flex-wrap: wrap;
     }
+    .footerimeeeg{
+        width: 300px;
+    }
+
 }
